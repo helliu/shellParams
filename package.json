@@ -1,10 +1,14 @@
 {
   "name": "shellparams",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "shellparams.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/helliu/shellParams.git"
   },
   "author": "",
   "license": "ISC"
