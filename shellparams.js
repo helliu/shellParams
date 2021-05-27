@@ -46,7 +46,7 @@ module.exports = class ShellParams{
         }
  
         if(!foundParamAction && defaultAction)
-            defaultAction();
+            defaultAction.apply(null, inputParameters);
     }
  
     arrayHasSubArray(array, subArray){
