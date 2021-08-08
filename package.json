@@ -1,6 +1,6 @@
 {
   "name": "shellparams",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "main": "shellparams.js",
   "scripts": {
@@ -10,6 +10,12 @@
     "type": "git",
     "url": "https://github.com/helliu/shellParams.git"
   },
+  "keywords": [
+    "shell",
+    "application",
+	"parameters",
+	"input"
+  ],
   "author": "",
   "license": "GNU"
 }
